@@ -1,0 +1,14 @@
+account.txt
+account2.txt
+conversation_history.json
+*.log
+node_modules/
+.env
+account.txt
+account2.txt
+conversation_history.json
+database/data/*.sqlite
+registeredGroup*.json
+scripts/user*.json
+idCounter.json
+replit.nix
